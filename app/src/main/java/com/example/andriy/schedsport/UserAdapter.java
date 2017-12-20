@@ -49,7 +49,7 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.UserViewHolder
         return list.size();
     }
 
-    class UserViewHolder extends RecyclerView.ViewHolder{
+    static class UserViewHolder extends RecyclerView.ViewHolder{
 
         TextView txt_exercises_name, txt_exercises_description;
         ImageView img_exercises_image;
