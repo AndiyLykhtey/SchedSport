@@ -6,20 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.example.andriy.schedsport.GalleryAdapter">
 
-    <RelativeLayout
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/photo_list"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
-        android:layout_marginRight="5dp"
-        android:background="@color/backColor"
-        android:padding="15dp">
-        <ImageView
-            android:id="@+id/gallery_image"
-            android:layout_centerVertical="true"
-            android:layout_centerHorizontal="true"
-            android:layout_margin="10dp"
-            android:layout_width="280dp"
-            android:layout_height="280dp" />
-    </RelativeLayout>
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
 
 </android.support.constraint.ConstraintLayout>

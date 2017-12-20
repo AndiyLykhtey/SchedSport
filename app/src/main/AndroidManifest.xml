@@ -27,7 +27,7 @@
         <activity android:name=".RecilcleView" />
         <activity android:name=".AddExercisesActivity" />
         <activity android:name=".ScheduAdapter" />
-        <activity android:name=".GalleryAdapter"></activity>
+        <activity android:name=".GalleryAdapter" />
     </application>
 
 </manifest>

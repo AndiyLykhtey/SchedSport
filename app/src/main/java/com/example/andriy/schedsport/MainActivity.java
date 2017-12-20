@@ -95,6 +95,8 @@ public class MainActivity extends AppCompatActivity
             finish();
 
         } else if (id == R.id.nav_gallery) {
+            GalleryAdapter.start(this);
+            finish();
 
         } else if (id == R.id.nav_chart) {
 
