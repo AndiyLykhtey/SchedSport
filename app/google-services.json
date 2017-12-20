@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423739718284",
+    "firebase_url": "https://loginapp-8d28f.firebaseio.com",
+    "project_id": "loginapp-8d28f",
+    "storage_bucket": "loginapp-8d28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423739718284:android:3532a6845b486b89",
+        "android_client_info": {
+          "package_name": "com.example.andriy.schedsport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423739718284-fs06s2k36fldbcf111m5bga9k6ejom1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andriy.schedsport",
+            "certificate_hash": "b4d3883f6eef2b00253f8ddb5e9338064e857ce4"
+          }
+        },
+        {
+          "client_id": "423739718284-dpp6lca38c087l4i6155h1mg51qsmg64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCaH3w2ZzpqqlDuEcR-4esbK6d0F7Pqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423739718284-dpp6lca38c087l4i6155h1mg51qsmg64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
