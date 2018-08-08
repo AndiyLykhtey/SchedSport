@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "exercises_name": "Bench Press",
+    "exercises_description":"Difficult",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_bench_press.png?alt=media&token=86a18fa4-5523-4efc-8030-8d7bfa7bd5e8"
+  },
+  {
+    "id": 2,
+    "exercises_name": "Boxing",
+    "exercises_description":"Moderate",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_boxing.png?alt=media&token=ce4efe6e-d137-43bb-8ccd-d14a93a217d7"
+  },
+  {
+    "id": 3,
+    "exercises_name": "Pushups",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_pushups.png?alt=media&token=da795c96-b0ce-4d1a-84a8-cc38b6487f74"
+  },
+  {
+    "id": 4,
+    "exercises_name": "Rowing Machine",
+    "exercises_description":"Moderate",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_rowing_machine.png?alt=media&token=a5c56da9-0673-497f-b37c-53bc6871ac34"
+  },
+  {
+    "id": 5,
+    "exercises_name": "Stepper",
+    "exercises_description":"Moderate",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_stepper.png?alt=media&token=c02d0a78-ecf7-4f93-8349-cd8da47ce306"
+  },
+  {
+    "id": 6,
+    "exercises_name": "Weightlifting",
+    "exercises_description":"Difficult",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ic_weightlifting.png?alt=media&token=85cca525-1c52-471a-afa9-059f3d5626ed"
+  },
+  {
+    "id": 7,
+    "exercises_name": "Fitness Press",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/ico_fitness.png?alt=media&token=653fab89-1f22-4065-b145-a99c0f107155"
+  },
+  {
+    "id": 8,
+    "exercises_name": "Acrobatics",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-acrobatics-100.png?alt=media&token=0348b6f2-eefe-4250-a0ee-fc8c2368d47f"
+  },
+  {
+    "id": 9,
+    "exercises_name": "Dumbbells Press",
+    "exercises_description":"Moderate",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-curls-with-dumbbells-100.png?alt=media&token=42b0803b-4219-4aa9-bf2b-0112fe1bad5d"
+  },
+  {
+    "id": 10,
+    "exercises_name": "Gymnastics",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-gymnastics-100.png?alt=media&token=5d1ced49-91a2-4b1b-a99a-3d8cfa466962"
+  },
+  {
+    "id": 11,
+    "exercises_name": "Pilates",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-pilates-100.png?alt=media&token=e0b670c9-bd8b-48cc-91f2-4394db7f7eae"
+  },
+  {
+    "id": 12,
+    "exercises_name": "Sit-ups",
+    "exercises_description":"Moderate",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-sit-ups-100.png?alt=media&token=9c4a74b5-7326-408d-b90d-cc74b5b3e424"
+  },
+  {
+    "id": 13,
+    "exercises_name": "Squats",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-squats-100.png?alt=media&token=7d863472-bac8-49fa-b4f0-ac285c6f2e94"
+  },
+  {
+    "id": 14,
+    "exercises_name": "Workout",
+    "exercises_description":"Easy",
+    "exercises_img_url": "https://firebasestorage.googleapis.com/v0/b/loginapp-8d28f.appspot.com/o/icons8-workout-100.png?alt=media&token=40f12ee7-d823-4938-81d4-540bfa17db5b"
+  }
+]
